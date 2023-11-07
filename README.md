@@ -13,9 +13,15 @@ Sou entusiasta de Logística com um profundo compromisso em otimizar operações
 
 🚀 Minha paixão pela tecnologia me levou a explorar a automação, análise de dados e a implementação de software para otimizar processos logísticos.
 <p></p> 
-<div class="header-social-links">
-  <a href="https://github.com/alexandremazzola" target="_blank" class="github"><i class="bi bi-github"></i></a>
-  <a href="https://www.facebook.com/alexandre.mazzola.5" target="_blank" class="facebook"><i class="bi bi-facebook"></i></a>
-  <a href="https://www.instagram.com/alexandre.mazzola/" target="_blank" class="instagram"><i class="bi bi-instagram"></i></a>
-  <a href="https://www.linkedin.com/in/alexandre-mazzola-0a755336/" target="_blank" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
-</div>
+
+<!-- ======= Header ======= -->
+<header id="header" class="fixed-top">
+  <div class="container-fluid d-flex justify-content-between align-items-center">
+    <div class="header-social-links">
+      <a href="https://github.com/alexandremazzola" target="_blank" class="github"><i class="bi bi-github"></i></a>
+      <a href="https://www.facebook.com/alexandre.mazzola.5" target="_blank" class="facebook"><i class="bi bi-facebook"></i></a>
+      <a href="https://www.instagram.com/alexandre.mazzola/" target="_blank" class="instagram"><i class="bi bi-instagram"></i></a>
+      <a href="https://www.linkedin.com/in/alexandre-mazzola-0a755336/" target="_blank" class="linkedin"><i class="bi bi-linkedin"></i></i></a>
+    </div>
+  </div>
+</header><!-- End Header -->
