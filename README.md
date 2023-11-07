@@ -1,65 +1,28 @@
-## Alexandre Mazzola
 
-🌐 [LinkedIn](https://www.linkedin.com/in/alexandre-mazzola-0a755336) 
-📧 E-mail: alexandre.mazzola75@gmail.com
+<h1>Alexandre Mazzola</h1>
 
-📍 Bragança Paulista, SP, Brasil
+Sou entusiasta de Logística com um profundo compromisso em otimizar operações e criar impacto positivo. 📦💼
 
-### Resumo
+🌍 Moro em Bragança Paulista, SP, Brasil, tenho dedicado anos à área de logística, aprimorando minhas habilidades e conhecimentos.
 
-🚀 Profissional de logística com experiência em coordenação de equipes, gestão de estoque, compras e logística de distribuição. Especializado em maximizar a eficiência operacional e otimizar processos de logística para alcançar resultados de alto desempenho. 
+🎓 Sou graduado em Tecnologia em Logística e estou cursando  Análise e Desenvolvimento de Sistemas.
 
-### Formação Acadêmica
+💼 Minha trajetória profissional inclui cargos de destaque, como Supervisor de Almoxarifado na Lo Sardo Materiais Para Construção, Supervisor de Centro de Distribuição na Vet Br Saúde Animal e Supervisor de Centro de Distribuição na Farmina Pet Foods Brasil. Nessas funções, liderei equipes, aprimorei operações logísticas e apresentei indicadores-chave à diretoria.
 
-🎓 Tecnologia em Logística, Universidade São Francisco.
-🎓 Analise e desenvolvimento de Sistemas, Instituto Federal São Paulo (IFSP), em andamento.
+🔍 Estou sempre em busca de soluções inovadoras para os desafios logísticos, e acredito que a eficiência é fundamental para o sucesso de qualquer operação.
 
-### Experiência Profissional
+🚀 Minha paixão pela tecnologia me levou a explorar a automação, análise de dados e a implementação de software para otimizar processos logísticos.
 
-#### Vet Br Saúde Animal
-##### Supervisor de Centro de Distribuição (Guarulhos/SP)
-⚙️ Coordenação de equipe de logística
-📦 Gestão de estoque, avarias e insumos
-🚛 Contratação de fretes e coordenação de agregados
-📊 Apresentação periódica de indicadores à diretoria
-📋 Inventários
-📅 Junho 2017 - Abril 2018
-
-#### Farmina Pet Foods Brasil
-##### Supervisor de Centro de Distribuição (Paulínia/SP e Guarulhos/SP)
-⚙️ Coordenação de equipe de logística
-📦 Compra de produtos e nivelamento de estoques
-🚛 Contratação de fretes e coordenação de agregados
-📊 Interação intensa com a área comercial
-📋 Apresentação periódica de indicadores à diretoria
-📅 Agosto 2015 - Junho 2017 e Dezembro 2018 - Janeiro 2020
-
-#### S&L Recursos Humanos S/A - GI Group Company (a serviço da Rexam Brasil)
-##### Comprador (Belém/PA)
-🛒 Compras para projeto de nova unidade industrial
-🏗️ Trabalho com empreiteiras, prestadores de serviços e fornecedores
-💼 Desenvolvimento de fornecedores locais
-📈 Análise de estoques corporativos
-📅 Abril 2012 - Junho 2013
-
-#### Max Gear Ind. e Com. de Auto Peças Ltda.
-##### Líder de Logística
-📊 Programação da capacidade produtiva
-🔍 Análise de pedidos e programação de matérias-primas
-🤝 Estreitamento da relação com clientes
-📉 Implementação de normas de qualidade (ISO 9000 e TS 16949)
-📅 Abril 2003 - Junho 2007
-
-### Cursos Extracurriculares
-
-📚 Inglês, nível intermediário
-🖥️ Softwares: Win Thor (PC Sistemas), Protheus-Microsiga, EMS-Data Sul e SAP módulo Compras
-🔧 Programa de Operações e Logística de Produção - Teoria das Restrições - Instituto Goldratt
-📊 Procedimentos Fiscais - PRODEP
-🕵️ Formação de Auditores Internos (ISO 9000 e TS 16949) - Pollon Engenharia e Treinamento
-🤝 Técnicas de Liderança
-💼 Técnicas de Negociação - CIESP
-📦 Logística e PCP – SENAI
-📏 Cronoanálise e Metrologia – SENAI
-📐 Leitura e Interpretação de Desenho Técnico Mecânico – SENAI
-🚧 Operador de Empilhadeira – SENAI
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
+<p></p> 
+<div> 
+  <a href="https://www.instagram.com/alexandre.mazzola/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:alexandremazzola75@gmail.com"  target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https:https://www.linkedin.com/in/alexandre-mazzola-0a755336/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
